@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/out
+*.iml
+*.class
+*.kotlin_module
+/codeStyles
+/libraries
+kotlinc.xml
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
