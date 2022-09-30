@@ -12,7 +12,7 @@ fun sqrt(liczba: Double): Double {
 fun main(args: Array<String>) {
 
     print("Podaj liczbę do spierwiastkowania: ")
-    var inputNumber = readLine()!!
+    val inputNumber = readLine()!!
 
     try {
         println(sqrt(inputNumber.toDouble()))
